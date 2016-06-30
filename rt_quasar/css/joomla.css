@@ -1,0 +1,291 @@
+/**
+ * @package Quasar Template - RocketTheme
+* @version   $Id$
+* @author RocketTheme http://www.rockettheme.com
+* @copyright Copyright (C) 2007 - 2010 RocketTheme, LLC
+* @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ *
+ * Gantry uses the Joomla Framework (http://www.joomla.org), a GNU/GPLv2 content management system
+ *
+ */
+ 
+/* Article */
+.rt-joomla .rt-article {margin-bottom: 15px;}
+.rt-article {overflow: hidden;}
+.rt-author, .rt-date-posted, .rt-date-modified {display: block;font-size: 11px;}
+.rt-author {font-weight: bold;display: block;font-size: 12px;}
+.rt-joomla .rt-article-cat {float: left;margin-top: 10px;margin-bottom: 0;}
+.rt-joomla .rt-headline {margin: 15px 0;position: relative;}
+.rt-comment-text {text-align: right;display: block;margin-bottom: 15px;}
+.rt-joomla .rt-article-bg, .component-content .rt-article-bg {border-bottom: none;padding: 0;}
+.rt-breadcrumb-surround {padding: 8px 25px;height: auto;}
+dl dt, dl dd {display: inline;} 
+.profile dl dt, .profile dl dd {display: block;}
+.component-content .title {font-size: 230%;}
+.component-content .rt-article-no-icon li{list-style: none; display:inline; float:right; margin-left: 5px;}
+.component-content .img-intro-right, .component-content .img-fulltext-right {float: right;margin-left: 10px;margin-bottom: 10px;}
+.component-content .img-intro-left, .component-content .img-fulltext-left {float: left;margin-right: 10px;margin-bottom: 10px;}
+
+/* Weblinks */
+.component-content table.weblinks th, .component-content table.category th {background: none; border: none;}
+.component-content .category .cat-title {font-size: 110%; text-align: left;}
+.component-content .category .cat-title a.category {margin-left: 5px;}
+
+/* Search Style */
+form.search_result input#search_searchword.inputbox {width: 96%;height: 24px; padding-left: 10px;font-size: 16px;padding-top: 5px;line-height: 16px;}
+form.search_result input#search_searchword.inputbox {margin-left: 0;}
+form.search_result .input-field-l, form.josForm .input-field-l, .input-surround .input-field-l {width: 300px;}
+form.search_result .form-limit{float: right;}
+form.search_result .display_limit {clear:both; margin-top: 15px;}
+form.search_result .display_limit p.counter {width: 200px; float: left;}
+.component-content .search-results {clear: both;}
+.component-content .searchintro {font-weight: normal;margin: 20px 0 20px;}
+.component-content #searchForm {padding: 0;}
+.component-content .form-limit {margin: 0;text-align: right;padding: 0 10px 0 20px;}
+.component-content .highlight {font-weight: bold;}
+.component-content .ordering-box {float: none;}
+.component-content .phrases-box {float: none;margin-bottom: 10px;}
+.component-content .ordering-box .inputbox {width: auto !important}
+.component-content .only, .component-content .phrases {margin: 10px 0 0 0px;padding: 15px 0;line-height: 1.3em;}
+.component-content label.ordering {display: block;margin: 10px 0 10px 0;}
+.component-content .word {padding: 0;}
+.component-content .word input {font-weight: bold;}
+.component-content .word label {font-weight: bold;}
+.component-content fieldset.only label, .component-content fieldset.phrases label {margin: 0 10px 0 0;}
+.component-content .ordering-box label.ordering {margin: 0 10px 5px 0;float: left;}
+.component-content form .search label {display: none;}
+.component-content dl.search-results dt.result-title {padding: 15px 15px 0px 5px;font-weight: bold;}
+.component-content dl.search-results dd {padding: 2px 15px 2px 5px;}
+.component-content dl.search-results dd.result-text {padding: 10px 15px 10px 5px;line-height: 1.7em;}
+.component-content dl.search-results dd.result-created {padding: 2px 15px 15px 5px;}
+.component-content dl.search-results dd.result-category {padding: 10px 15px 5px 5px;}
+.component-content #search-results dl, .component-content #search-results dt, .component-content #search-results dd {display: block; padding-left: 0; margin-left: 0;}
+
+/* Typography */
+.rt-poll .rt-pollrow {padding: 6px 0 10px 0;}
+#form-login ul li, #com-form-login ul li, ul.rt-more-articles li, .rt-section-list ul li {list-style: none;}
+#form-login ul li a, #com-form-login ul li a, ul.rt-more-articles li a, .rt-section-list ul li a {padding-left: 18px;}
+#com-form-login ul {margin-top: 15px;}
+.rt-joomla .results ol.list {margin-top: 0;}
+.rt-joomla .results ol.list h4 {border: 0;margin-top: 0;margin-bottom: 0;display: inline;}
+.rt-joomla .results ol.list li {padding: 10px 5px;margin-bottom: 5px;}
+.rt-joomla .results ol.list li p {margin-top: 0;font-size: 90%;}
+.rt-joomla .results ol.list .description {margin-bottom: 15px;}
+.rt-joomla .results ol.list li span.small {font-size: 90%;}
+.rt-joomla .user legend, .rt-joomla .contact legend {text-transform: uppercase;font-weight: bold;font-size: 260%;}
+.rt-joomla .icon {display:block;width:15px;height:15px;float: right;margin-left:5px;}
+.rt-joomla .pdf {background-position: -36px 0;background-repeat: no-repeat;}
+.rt-joomla .print {background-position: 0 0;background-repeat: no-repeat;}
+.rt-joomla .email {background-position: -18px 1px;background-repeat: no-repeat;margin-right: 2px;}
+.rt-joomla .edit {background-position: -52px 1px;background-repeat: no-repeat;position: absolute;top: 0;right: 0;margin: 0;}
+#rt-main-surround .rt-joomla fieldset legend {text-transform: none;}
+
+/* Editing */
+.component-content ul.actions {list-style: none; margin: 0;}
+.component-content .edit-icon a {background-position: -52px 0; margin-right: 0;}
+.toggle-editor .button2-left {margin-top: 5px;}
+.rt-joomla .edit-article fieldset legend {text-transform: uppercase;font-weight: bold;font-size: 180%;}
+.rt-joomla .edit-article fieldset div {overflow: visible;}
+#editor-xtd-buttons {padding: 5px 0;}
+.button2-left, .button2-right, .button2-left div, .button2-right div {float: left;}
+.button2-left a, .button2-right a, .button2-left span, .button2-right span {display: block;height: 22px;float: left;line-height: 22px;font-size: 11px;cursor: pointer;margin-bottom: 5px;}
+.button2-left span, .button2-right span {cursor: default;}
+.button2-left .page a, .button2-right .page a, .button2-left .page span, .button2-right .page span {padding: 0 6px;}
+.button2-left a:hover, .button2-right a:hover {text-decoration: none;}
+.button2-left a, .button2-left span {padding: 0 24px 0 6px;}
+.button2-right a, .button2-right span {padding: 0 6px 0 24px;}
+.button2-left .blank a {padding-right: 6px;}
+.img_caption.left {float: left;margin-right: 1em;}
+.img_caption.right {float: right;margin-left: 1em;}
+.img_caption.left p {clear: left;text-align: center;}
+.img_caption.right p {clear: right;text-align: center;}
+.img_caption {text-align: center!important;}
+.rt-joomla .edit-article fieldset div {margin-bottom: 8px;}
+.edit-article fieldset div input {padding: 3px;}
+.edit-article fieldset div .label-left {padding: 1px 0;}
+.edit-article fieldset div img.calendar {vertical-align: middle;margin-left: 5px;}
+
+/* User */
+.rt-joomla .user div {clear: both;margin-bottom:10px;}
+
+/* RokGallery */
+.component-content ul.rg-sort-list {margin: 0;}
+.component-content ul.rg-sort-list li {margin-right: 10px;}
+.component-content ul.rg-view-selector-list {margin: 2px;}
+
+/* Misc */
+.roktabs-wrapper ul li {list-style: none;}
+#roksearch_results span.small span.small {display:block;position:relative;margin:10px -10px 0 0;}
+
+/* Advanced Search */
+.component-content .search-results {clear: both;}
+.component-content #finder-search .word {margin-bottom: 10px;}
+.component-content #advanced-search #finder-filter-select-list li {margin-bottom: 10px;}
+.component-content #advanced-search #finder-filter-select-list label {width: 135px; display: inline; float: left;}
+
+/* Mailto Page */
+#rt-component .rt-block {width: 370px;}
+#rt-component .mailto-close {background: url(../images/icons/icon-delete.png) 0 0 no-repeat;}
+#rt-component .formelm {margin-bottom: 10px;}
+#rt-component #mailto-window label {display: block; width: 80px; float: left; margin-right: 15px;}
+
+/* RTL */
+body.rtl .rt-joomla .rt-article-cat {float: right;}
+body.rtl .rt-joomla .rt-article-icons {float: left;}
+body.rtl .rt-joomla .icon {float: left;margin-left: 0;margin-right: 3px;}
+body.rtl #form-login ul li a, body.rtl #com-form-login ul li a, body.rtl ul.rt-more-articles li a, body.rtl .rt-section-list ul li a {padding-left: 0;padding-right: 18px;}
+body.rtl .rt-joomla .icon {float: left;margin-left: 0;margin-right: 5px;}
+body.rtl .rt-joomla .edit {right: auto;left: 0;}
+body.rtl .button2-left, body.rtl .button2-right, body.rtl .button2-left div, body.rtl .button2-right div {float: right;}
+body.rtl #editor-xtd-buttons {float: right;}
+body.rtl .edit-article fieldset table {float: right;}
+body.rtl .rt-poll .rt-pollbuttons .readon {float: right;}
+body.rtl .component-content #advanced-search #finder-filter-select-list label {float: right;}
+
+/* iPhone */
+body #gantry-viewswitcher {z-index: 100;right:50%;position:relative;top:inherit;right:inherit;margin: 1em auto;}
+
+/*Pagination*/
+
+.pagination, .rt-pagination, .pager {margin-top: 15px;}
+.pagination ul, .pagination ul, .pager ul {list-style-type:none;margin:0;padding:0;text-align:left;}
+.pagination ul li, .pagination ul li, .pager ul li {display:inline;padding:2px 5px 0;text-align:left;}
+.pagination ul li a, .pagination ul li a, .pager ul li a {padding:2px;font-size: 100%;}
+
+/* Article Index */
+.component-content #article-index, .component-content .article-index {float:right;border-radius:5px;margin-left: 15px;background: rgba(0, 0, 0, 0.05);border:1px solid rgba(0, 0, 0, 0.1);}
+.component-content #article-index ul, .component-content .article-index ul {list-style:none;margin:0;padding:0;}
+.component-content #article-index ul li:first-child a, .component-content .article-index ul li:first-child a {border-top-right-radius:5px;border-top-left-radius:5px;}
+.component-content #article-index ul li a, .component-content .article-index ul li a {border-bottom:1px solid rgba(0, 0, 0, 0.1);display:block;line-height:20px;padding:8px 12px;}
+.component-content #article-index ul li a.active, .component-content .article-index ul li a.active {color:inherit;}
+.component-content #article-index ul li a:hover, .component-content .article-index ul li a:hover {background:rgba(0, 0, 0, 0.1);}
+.component-content #article-index ul li:last-child a, .component-content .article-index ul li:last-child a {border-bottom:none !important;border-bottom-right-radius:5px;border-bottom-left-radius:5px;}
+.component-content .article-index .nav-tabs.nav-stacked>li>a{border:1px solid 1px solid rgba(0, 0, 0, 0.1);background: rgba(0, 0, 0, 0.05);}
+.component-content .article-index .nav-tabs.nav-stacked>li>a:hover{background:rgba(0, 0, 0, 0.1);}
+.component-content #article-index li, .component-content .article-index li {list-style: none;}
+.component-content .article-index .nav-tabs.nav-stacked > li > a { border: none;}
+
+/* System Messages */
+#system-message dd ul, #system-message dd.error ul, #system-message dd.notice ul {border: 0;font-size: 1.2em;text-align: center;}
+#system-message {margin-bottom: 10px;padding: 0;}
+#rt-drawer #system-message {margin-top: 10px;margin-bottom: 10px;}
+#system-message dt {display:none;}
+#system-message dd {margin: 0;font-weight: bold; padding:0;}
+#system-message dd ul {background: #BFD3E6;color: #0055BB;margin: 10px 0 10px 0;list-style: none;padding: 10px;border: none;}
+#system-message h4, #system-message .close {display: none;}
+#system-message p {margin-bottom: 0; text-align:center; font-size:120%; padding: 10px 30px;}
+#system-message li {padding: 0 30px;}
+
+/* System Error Messages */
+#system-message dt.error {display: none;}
+#system-message dd.error ul {color: #c00;background-color: #EBC8C9;border: none;}
+
+/* System Notice Messages */
+#system-message dd.notice {background: none;border: 0;}
+#system-message dt.notice {display: none;}
+#system-message dd.notice ul {color: #A08B4C;background: #F5ECC1;border: none;}
+
+/*Tool Tip*/
+.tooltip{position:absolute;z-index:1030;display:block;font-size:11px;line-height:1.4;opacity:0;filter:alpha(opacity=0);visibility:visible;}
+.tooltip.in{opacity:0.8;filter:alpha(opacity=80);}
+.tooltip.top{padding:5px 0;margin-top:-3px;}
+.tooltip.right{padding:0 5px;margin-left:3px;}
+.tooltip.bottom{padding:5px 0;margin-top:3px;}
+.tooltip.left{padding:0 5px;margin-left:-3px;}
+.tooltip-inner{max-width:200px;padding:8px;color:#ffffff;text-align:center;text-decoration:none;background-color:#000000;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;}
+.tooltip-arrow{position:absolute;width:0;height:0;border-color:transparent;border-style:solid;}
+.tooltip.top .tooltip-arrow{bottom:0;left:50%;margin-left:-5px;border-top-color:#000000;border-width:5px 5px 0;}
+.tooltip.right .tooltip-arrow{top:50%;left:0;margin-top:-5px;border-right-color:#000000;border-width:5px 5px 5px 0;}
+.tooltip.left .tooltip-arrow{top:50%;right:0;margin-top:-5px;border-left-color:#000000;border-width:5px 0 5px 5px;}
+.tooltip.bottom .tooltip-arrow{top:0;left:50%;margin-left:-5px;border-bottom-color:#000000;border-width:0 5px 5px;}
+
+/* Frontend Editor */
+.component-content .edit .pull-left {float: left;}
+.component-content .edit .pull-right {float: right;}
+.component-content .edit #editor-xtd-buttons a.btn, .component-content .toggle-editor a.btn {background: #eee; padding: 2px !important; margin: 0 !important; line-height: 1.2em; border: solid 1px #dddddd; font-weight: bold; text-decoration: none; display: inline;}
+.component-content .edit #editor-xtd-buttons {float: left;}
+.component-content .edit .toggle-editor {float: right;}
+.component-content .toggle-editor a.btn {display: block; border-top: 0;}
+.component-content .edit legend {padding: 5px 0;}
+.component-content .input-append {display: inline-block;}
+.component-content button#jform_publish_up_img, .component-content button#jform_publish_down_img {border: none; background: none;}
+.component-body .form-inline .pull-left {float: left;}
+.component-body .form-inline .pull-right {float: right;}
+.component-body .form-inline .hr-condensed {display: none;}
+.component-body .form-inline .filters {clear: both; text-align: left;}
+.component-body .form-inline fieldset select {display: inline-block; width: 160px; float: none;}
+.component-body .form-inline fieldset button {margin: 5px; height: 22px;}
+.component-body .form-inline fieldset button i {margin-right: 0;}
+.component-body .form-inline th.title {font-size: 1.0em;}
+.component-body .form-inline th.title:before {background: none;}
+.component-body .thumbnails {margin: 0 -40px; list-style: none;}
+.component-body .thumbnails .height-50 {height: 50px;}
+.component-body .thumbnails .small {font-size: 11px;}
+.component-body .thumbnails:before, .thumbnails:after {display: table; content: ""; line-height: 0;}
+.component-body .thumbnails:after {clear: both;}
+.component-body .row-fluid .thumbnails {margin-left: 0;}
+.component-body .thumbnails > li {float: left; margin-bottom: 18px; margin-left: 20px;}
+.component-body .thumbnail { display: block; padding: 4px; line-height: 18px; border: 1px solid #dddddd; border-radius: 4px;}
+.component-body .thumbnail .icon-folder-2:before {content: "";}
+.component-body a.thumbnail:hover {border-color: #08c;}
+.component-body .thumbnail > img {display: block; max-width: 100%; margin-left: auto; margin-right: auto;}
+.component-body .thumbnail .caption {padding: 9px; color: #555;}
+.component-body .form-horizontal .pull-left {float: left;}
+.component-body .form-horizontal .pull-right {float: right;}
+.component-body #imageForm.form-horizontal .span9 {float: left; width: 538px;}
+.component-body #imageForm.form-horizontal .control-group {margin-bottom: 18px;}
+.component-body #imageForm.form-horizontal .control-group:before,
+.component-body #imageForm.form-horizontal .control-group:after {display: table; content: ""; line-height: 0;}
+.component-body #imageForm.form-horizontal .control-group:after {clear: both;}
+.component-body #imageForm.form-horizontal .control-label {float: left; width: 140px; padding-top: 0; text-align: right;}
+.component-body #imageForm.form-horizontal .controls {margin-left: 160px;}
+.component-body #imageForm.form-horizontal button#upbutton {position: relative; top: -9px;}
+.component-body #imageForm.form-horizontal .help-block {margin-top: 9px; margin-bottom: 0;}
+.component-body #imageForm.form-horizontal .form-actions {padding-left: 160px;}
+.component-body #imageForm.form-horizontal .well, .component-body #uploadForm.form-horizontal .well  {min-height: 20px; padding: 20px 20px 30px 0; margin-bottom: 20px; background-color: #f5f5f5; border: 1px solid #e3e3e3; border-radius: 4px;}
+.component-body #imageForm.form-horizontal .well .pull-right .btn:not(.btn-primary) {height: 38px;}
+.component-body #uploadForm.form-horizontal .well {padding: 5px 20px 80px 0;}
+.component-body .form-horizontal #uploadform #upload-submit {margin-left: 15px;}
+
+/*FontAwesome Icons*/
+.component-content dl.article-info .rt-article-icons {width: auto;}
+.component-content dl.article-info .rt-article-icons li {display: inline-block;}
+.component-content dl.article-info .rt-article-icons ul li a {width: auto;height: auto;float: none;background: none;}
+.component-content dl.article-info .rt-article-icons ul li a span {width: 18px;height: 18px;float: none;display: inline-block;background-repeat: no-repeat;}
+.component-content dl.article-info .rt-article-icons ul .print-icon span {background-position: -1px 0;}
+.component-content dl.article-info .rt-article-icons ul .email-icon span {background-position: -22px -1px;}
+.component-content dl.article-info .rt-article-icons ul .edit-icon span {background-position: -63px 0;}
+.component-content dl.article-info .rt-article-no-icon ul .edit-icon a {margin-right: 0;}
+.component-content dl.article-info .rt-article-no-icon li {margin-right: 5px;}
+dd.rt-article-icons ul.actions li.edit-icon {padding-left: 5px;}
+
+/*Extra*/
+.component-content .search-results .word label, .component-content .search-results .word input {float: left;}
+.component-content .search_result .readon {margin-left:15px;}
+.content_rating p {margin:0;}
+.component-content .contact .button {margin:0 0 0 -9px;}
+.weblink-category p {font-size: 15pt;}
+.component-content .pagenav li.next {float:right;}
+.component-content .button2-left a {line-height: 1.9em;}
+.component-content .button2-left {margin-top:2px;}
+.calendar, .calendar table {background:none; border:none;}
+#users-profile-core dt, #users-profile-custom dt {width:13em;}
+.component-content ul#archive-items li.row0, .component-content ul#archive-items li.row1 {padding: 0;}
+.calendar table {background: #DDD;}
+.component-content #mailto-window button {margin: 0;}
+#mailto-window {background: #E5E5E5;}
+#mailto-window button, #mailto-window .readon {background-image: none;}
+.registration input {padding: 3px;}
+.contact-form input {padding: 3px;}
+.edit input {padding: 3px;}
+.profile-edit input {padding: 3px;}
+.edit #jform_alias-lbl {width: 9em;}
+.search-results .controls {width: 275px; height: 0; margin-top: 0; margin-bottom: 35px; position: inherit;}
+.alert .close {display: none;}
+.alert-message {padding: 9px; }
+.component-content #archive-items {margin: 20px 0; list-style-type: none;padding: 0;}
+.component-content .email-icon a {margin-right: 5px;}
+.rt-article-icons a:hover {text-decoration: none;}
+.unsupported, .unsupported h1 {color: black;}
+.unsupported a {color: blue;}
+.element-invisible {display :none;}

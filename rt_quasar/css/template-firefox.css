@@ -1,0 +1,6 @@
+/*Extra*/
+.login-fields input#remember.inputbox {width: 13px;}
+
+.tag-category .chzn-container-single .chzn-single span { margin-right: 0;}
+
+.tag-category .chzn-container-single .chzn-single div b {background:url("../../../media/jui/css/chosen-sprite.png") no-repeat scroll 3px 2px rgba(0, 0, 0, 0);}

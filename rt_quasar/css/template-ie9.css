@@ -1,0 +1,9 @@
+/*Misc*/
+.user input#remember { background: none;}
+.user input#remember { width: 15px;}
+
+.module-content ul.menu a {line-height: 125%;}
+
+.tag-category .chzn-container-single .chzn-single span { margin-right: 0;}
+
+.tag-category .chzn-container-single .chzn-single div b {background:url("../../../media/jui/css/chosen-sprite.png") no-repeat scroll 3px 2px rgba(0, 0, 0, 0);}
