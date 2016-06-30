@@ -18,7 +18,7 @@ d36333ba693a4a8c3570d89769924e79 component.php
 1c7b413c3fa39d0fed40556d2658ac73 css-compiled/index.html
 1c7b413c3fa39d0fed40556d2658ac73 css/index.html
 b832474b0e7dab015a5156598daf7e21 css/iphone-gantry.css
-662cb0b30795d68ead308893d36e5841 css/joomla.css
+bdd74239046f74bb0bb344eb73a90201 css/joomla.css
 0c4440d31af41cc8568292b64f9de022 css/style1-ie6.css
 5c752667b1b515573635768d1e1a73f6 css/style1.css
 631ed34234960c540fb8b506413591d6 css/style2-ie6.css
@@ -38,7 +38,7 @@ ee48180e900a3d9c8369ed5ba9cbe550 css/template-ie6.css
 044a1e85825452df7c7fad65ff66956c css/template-ie7.css
 18abb5f52e85c4818486a2cde47d782c css/template-ie8.css
 9e6fc6c8eede8053ee36a0864c54daa5 css/template-ie9.css
-8e3764acbfe05f12755a7156df2fb10d css/template.css
+3e36b70a612bd907f66df82b08871eb3 css/template.css
 0675655c6205d6bddd2ecd17a8a10a38 css/typography.css
 d41d8cd98f00b204e9800998ecf8427e custom/index.html
 d61fb047ba583909bee392b3c0fd050a debugbody.php
@@ -237,7 +237,7 @@ ee774883d1b3d09866645abd001139bf html/joomla/3.3/com_search/search/default.php
 d1a678612cf6cec0df2d87ad748834ac html/joomla/3.3/com_search/search/default_results.php
 58d5c6d200e4bdf990e04d7dbfc3cf57 html/joomla/3.3/com_search/search/index.html
 1c7b413c3fa39d0fed40556d2658ac73 html/joomla/3.3/com_users/index.html
-4fcf9f02db0f989678c3692ed4c68fd5 html/joomla/3.3/com_users/login/default_login.php
+2ecbf98b5280ac136a390c541c18dc31 html/joomla/3.3/com_users/login/default_login.php
 0dfa39347613d83b9f30237692ba61f8 html/joomla/3.3/com_users/login/default_logout.php
 1c7b413c3fa39d0fed40556d2658ac73 html/joomla/3.3/com_users/login/index.html
 c3058e998999e3df99e45d04f02702c0 html/joomla/3.3/com_users/profile/edit.php
@@ -556,7 +556,7 @@ dc226d494ce428aaf4eb2b2b5cc37a60 images/typography/notice-icon.png
 110d53b2e51835c5e366ad9f1f430525 index.php
 1c7b413c3fa39d0fed40556d2658ac73 js/index.html
 7636a27a9ea5c9dc49a4d718474d60b3 js/suckerfish-ie6.js
-5f2f5b6ee49788aafed1f7ee3530852a language/en-GB/en-GB.tpl_rt_quasar.ini
+3e3f7f60b22b532c4fabba20ae90ddc0 language/en-GB/en-GB.tpl_rt_quasar.ini
 d41d8cd98f00b204e9800998ecf8427e language/en-GB/index.html
 d41d8cd98f00b204e9800998ecf8427e language/index.html
 b3598b87890c6feca7be224ecaf9144a less/bootstrap.less
@@ -566,14 +566,14 @@ a572ca2eecca1e13386d35af243a4e1a less/global.less
 1c7b413c3fa39d0fed40556d2658ac73 less/joomla/3.2/index.html
 1c7b413c3fa39d0fed40556d2658ac73 less/joomla/index.html
 19bcf579dd07145092ff0a29b2ec660d less/utilities.less
-8d9e7c1e96e3ebc3f3cad2755558982b lib/gantry/gantry.php
+ed758107f1b6de1d7398ff35760151fa lib/gantry/gantry.php
 8a3edb0428f11a404535d9134c90063f lib/gantry/index.html
 1c7b413c3fa39d0fed40556d2658ac73 lib/index.html
 d41d8cd98f00b204e9800998ecf8427e params/index.html
 daac8923ed494ebc92f2196dfaec16ad profile.php
 41c0e1393fc0fb23c3b92943b4b2ff01 template-options.xml
 7bde3208bc729628de290f27c82809f9 template-overview.php
-fece3c5cdcafb2b5c53de97e54ae44ce templateDetails.xml
+d3954a855b40b20eaa2987dc0fd8376b templateDetails.xml
 8098c9c47b8df8c7838f05906cdf61e6 template_preview.png
 0f746d3085e6fa16bf563518333253af template_thumbnail.png
 0b883e55f582f55be79b68f47c6c76e1 tests.php

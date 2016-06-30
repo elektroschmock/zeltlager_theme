@@ -68,8 +68,8 @@ ul li {list-style: square;margin-left: 15px;}
 #login-form input.inputbox, .login input {border: 1px solid #ddd; font-size: 1.2em; margin: 0; padding: 2px;}
 #login-form ul {margin-top: 15px;}
 .login-fields {margin-bottom: 15px;}
-.login-fields label {display: block;}
-#username-lbl, #password-lbl {font-weight: bold;}
+.login-fields label, #form-login-secretkey label {display: block;}
+#username-lbl, #password-lbl, #form-login-secretkey label {font-weight: bold;}
 
 /* Side Menus */
 #rt-main-surround ul.menu {padding-left: 0;}

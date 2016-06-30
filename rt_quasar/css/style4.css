@@ -79,9 +79,6 @@ h1, h2, h3, h4, h5 {color: #333;}
 #rt-bottomtab {background: #fff;}
 #rt-bottomtab .bottomtab {background: url(../images/body/style4/bottomtab-r.png) 100% 0 no-repeat;}
 #rt-bottomtab .bottomtab2 {background: url(../images/body/style4/bottomtab-l.png) 0 0 no-repeat;color: #fff;}
-/* Farbe für Links aendern */
-#rt-bottom a {color: #000000;}
-#rt-bottom a:hover {color: #ffffff;}
 
 /* Footer */
 #rt-footer {color: #666;}

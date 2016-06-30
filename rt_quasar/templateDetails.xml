@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <extension method="upgrade" type="template" version="2.5">
     <name>rt_quasar</name>
-    <version>1.4</version>
-    <creationDate> February 20, 2015</creationDate>
+    <version>1.5</version>
+    <creationDate> November 4, 2015</creationDate>
     <author>RocketTheme, LLC</author>
     <authorEmail>support@rockettheme.com</authorEmail>
     <authorUrl>http://www.rockettheme.com</authorUrl>

@@ -54,7 +54,7 @@ gantry_import('core.utilities.gantryjformfieldaccessor');
 			<?php if ($this->tfa): ?>
 			<p id="form-login-secretkey">
 				<label for="modlgn-secretkey"><?php echo JText::_('JGLOBAL_SECRETKEY') ?> <span class="icon-help hasTooltip" title="<?php echo JText::_('JGLOBAL_SECRETKEY_HELP'); ?>"></span></label> 
-				<input id="modlgn-secretkey" type="text" name="secretkey" class="inputbox" tabindex="0" size="18" placeholder="" />
+				<input id="modlgn-secretkey" type="text" name="secretkey" class="inputbox" tabindex="0" size="25" placeholder="" />
 			</p>
 			<?php endif; ?>
 			
