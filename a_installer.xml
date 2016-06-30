@@ -2,13 +2,13 @@
 <extension version="1.6.0" type="plugin" group="system" method="upgrade">
     <name>Installer</name>
 	<author>RocketTheme, LLC</author>
-	<creationDate>February 20, 2015</creationDate>
+	<creationDate>June 30, 2016</creationDate>
 	<copyright>(C) 2005 - 2015 RocketTheme, LLC. All rights reserved.</copyright>
 	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
 	<authorEmail>support@rockettheme.com</authorEmail>
 	<authorUrl>http://www.rockettheme.com</authorUrl>
 	<version>1.4</version>
-	<description>Quasar Template v1.4</description>
+	<description>Quasar Template v1.5.1</description>
     <scriptfile>install.script.php</scriptfile>
     <files>
         <filename plugin="rt_quasar_installer">installer.php</filename>

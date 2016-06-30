@@ -80,6 +80,9 @@ form.search_result .display_limit p.counter {width: 200px; float: left;}
 .rt-joomla .edit {background-position: -52px 1px;background-repeat: no-repeat;position: absolute;top: 0;right: 0;margin: 0;}
 #rt-main-surround .rt-joomla fieldset legend {text-transform: none;}
 
+/* Frontend Module Editing */
+#modules-form .radio input[type="radio"], #modules-form .checkbox input[type="checkbox"] {display: inline-block; margin-left: 0;}
+
 /* Editing */
 .component-content ul.actions {list-style: none; margin: 0;}
 .component-content .edit-icon a {background-position: -52px 0; margin-right: 0;}
@@ -289,3 +292,12 @@ dd.rt-article-icons ul.actions li.edit-icon {padding-left: 5px;}
 .unsupported, .unsupported h1 {color: black;}
 .unsupported a {color: blue;}
 .element-invisible {display :none;}
+.element-invisible {display :none;}
+#form-login-secretkey .icon-help {display: none;}
+
+/*Tags*/
+ul.inline, ol.inline {list-style: none; margin-left: 0;padding: 0;}
+ul.inline > li, ol.inline > li {display: inline-block;}
+.rt-article-bg .label-info {padding: 5px 4px;font-size: 10.998px;font-weight: bold;line-height: 14px;color: #fff;vertical-align: baseline;white-space: nowrap;text-shadow: 0 -1px 0 rgba(0,0,0,0.25);}
+.rt-article-bg .label-info {border-radius: 3px;} 
+.rt-article-bg .label-info[href] {background: gray;} 
