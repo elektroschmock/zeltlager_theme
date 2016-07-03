@@ -15,7 +15,7 @@ a:hover {color: #000;}
 h1, h2, h3, h4, h5 {color: #333;}
 
 /* Top */
-#rt-top {background: #0f0f0f url(../images/backgrounds/style4/header-bg.png) 100% 0;color: #999;}
+#rt-top {background: #0f0f0f url(../images/backgrounds/style4/top-bg.png) 100% 0;color: #999;}
 #rt-top .search .inputbox {background: url(../images/backgrounds/style4/search-bg.png) 0 0 no-repeat;color: #999;}
 #rt-top .title span {color: #ccc;}
 
